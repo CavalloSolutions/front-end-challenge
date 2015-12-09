@@ -1,0 +1,84 @@
+{
+  "widgets": [
+    {
+      "id": 1,
+      "name": "Gizmo"
+    },
+    {
+      "id": 2,
+      "name": "Thingamajig"
+    },
+    {
+      "id": 3,
+      "name": "Gadget"
+    },
+    {
+      "id": 4,
+      "name": "Doodad"
+    },
+    {
+      "id": 5,
+      "name": "Whatchamacallit"
+    }
+  ],
+
+  "locations": [
+    {
+      "id": 1,
+      "name": "Grand Rapids, MI",
+      "counts": [
+        {
+          "widgetId": 2,
+          "count": 89293
+        },
+        {
+          "widgetId": 3,
+          "count": 102
+        }
+      ]
+    },
+
+
+    {
+      "id": 2,
+      "name": "Holland, MI",
+      "counts": [
+        {
+          "widgetId": 1,
+          "count": 9201
+        },
+        {
+          "widgetId": 3,
+          "count": 20124
+        },
+        {
+          "widgetId": 5,
+          "count": 891
+        },
+        {
+          "widgetId": 2,
+          "count": 6427
+        }
+      ]
+    },
+
+    {
+      "id": 3,
+      "name": "Allendale, MI",
+      "counts": [
+        {
+          "widgetId": 4,
+          "count": 48292
+        },
+        {
+          "widgetId": 3,
+          "count": 6151
+        },
+        {
+          "widgetId": 5,
+          "count": 1048
+        }
+      ]
+    }
+  ]
+}
