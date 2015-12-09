@@ -5,7 +5,7 @@ Create a web app which loads `./app/data.json` and displays a list of locations 
 * The app should run by executing the command `python -m http.server 8000` from the `./app` directory.
 * Use [fontawesome.io](http://fontawesome.io) for the icons.
 * The search input should filter by both location and widget name
-* Email your app in a .zip with your resume to [jobs@salespad.net](mailto:jobs@salespad.net) with the subject ‘Front End Developer Application’;
+* Email your app in a .zip with your resume to [careerss@salespad.net](mailto:careerss@salespad.net) with the subject ‘Front End Developer Application’;
 
 ### Bonus Points
 * Use a CSS preprocessor (SASS / LESS)
